@@ -1,0 +1,17 @@
+body {
+  background-image: url("http://new-universe.org/zenphoto/albums/Chapter4/Illustrations/Abrams42.jpg");
+  color: white;
+}
+
+img {
+  height:100px;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+h1 {
+  margin: auto;
+}
